@@ -1,0 +1,28 @@
+h1 {
+    color:burlywood
+}
+
+p{
+    text-align: center;
+}
+.header {
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: space-between ;
+}
+
+.links {
+    display: flex;
+    flex-direction: column;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-end;
+}
